@@ -17,9 +17,9 @@ Includes a basic layer shell bar with a toggle for blur and widget region tracin
     ```
 
 ## Screenshots
-# No Blur
+### No Blur
 ![Bar with no blur (no tracing)](screenshots/no_blur.png)
-# Blur with no tracing
+### Blur with no tracing
 ![Bar with blur (no tracing)](screenshots/blur_no_tracing.png)
-# Blur and tracing
+### Blur and tracing
 ![Bar with blur (tracing enabled)](screenshots/blur_and_tracing.png)
