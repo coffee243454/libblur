@@ -6,7 +6,7 @@ Originally built for use in my GTK shell, but should work fine for any GTK3 or G
 
 ## Requirements
 
-- A Wayland compositor that supports `ext_background_effect_manager_v1` (e.g. Hyprland)
+- A Wayland compositor that supports `ext_background_effect_manager_v1` (e.g. Niri)
 - GTK3 or GTK4
 - Python 3 + `cffi` (for the Python bindings)
 
